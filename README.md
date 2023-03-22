@@ -1,6 +1,6 @@
 # humanSan
 
-## tst 0322
+## test 0322
 
 - python 프로젝트를 read.me 파일을 재생성했다.
 > ignore 파일 생성도 했다.
