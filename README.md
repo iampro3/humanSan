@@ -1,6 +1,6 @@
 # humanSan
 
-## test 0322
+## 0322 streamlit Github 가상환경 연결 vs code 에서 머신러닝결과를 웹에서 작업
 
 - python 프로젝트를 read.me 파일을 재생성했다.
 > ignore 파일 생성도 했다.
