@@ -11,7 +11,7 @@ all_menus = [
 class Order(Menus):
     _data   = all_menus
     _name   = "휴먼천국김밥"
-    _status      =True
+    _status  =True
 
     def __init__(self):
         print(Comments.title%self._name)    # 문자열 포맷팅

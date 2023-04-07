@@ -9,7 +9,7 @@ class Employee:
         self.tip += amout
         return self.tip
 
-# 상속화
+# 상속화 : 부모 클래스의 메서드를 자식 클래스에서 사용 가능하도록 정의함
 class Manager(Employee):
 
     def __init__(self, name, tip=50000, project =None):
